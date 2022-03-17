@@ -41,6 +41,7 @@ nav > ul {
 
 *, a:not(.no-highlight) {
   background-color: #719e07;
+  box-sizing: border-box;
 }
 
 [rel="external"] {
