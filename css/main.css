@@ -39,7 +39,7 @@ nav > ul {
   color: #fff;
 }
 
-*, a:not(.no-highlight) {
+* a:not(.no-highlight) {
   background-color: #719e07;
   box-sizing: border-box;
 }
