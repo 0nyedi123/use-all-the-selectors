@@ -26,12 +26,12 @@ nav > ul {
   background-color: #b58900;
 }
 
-.dfn [> + strong] {
+.dfn + strong {
   color: #fff;
 }
 
 a:not(.no-highlight) {
-  background: #719e07;
+  background-color: #719e07;
 }
 
 [rel="external"] {
