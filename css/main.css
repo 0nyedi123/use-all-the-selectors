@@ -37,7 +37,7 @@ nav > ul {
   color: #fff;
 }
 
-* a:not(.no-highlight) S{
+* a:not(.no-highlight) {
   background-color: #719e07;
 }
 
